@@ -1,0 +1,5 @@
+Hello, I try to send ZCL with Electrum Ledger wallet, but it doesn't work. Here is the message I receive:
+
+error: {'message': 'the transaction was rejected by network rules.\n\n16: mandatory-script-verify-flag-failed (Script evaluated without error but finished with a false/empty top stack element
+
+Help!
