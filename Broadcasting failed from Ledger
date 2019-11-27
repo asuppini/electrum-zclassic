@@ -1,0 +1,4 @@
+Hello
+When I try to send Zcl from my ledger wallet, the whole transaction goes well, but when it is supposed to end, the broadcasting fails and this message is returned:
+error: {'message': 'the transaction was rejected by network rules.\n\n16: mandatory-script-verify-flag-failed (Script evaluated without error but finished with a false/empty top stack element
+Help me please!
